@@ -1,0 +1,4 @@
+version=3
+
+# Tagging format isn't actually accurate, so make an x.x.xx inference.
+http://githubredir.debian.net/github/strukturag/httputils /github/strukturag/httputils/httputils_v(\d)(\d)(\d+).tar.gz
